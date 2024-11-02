@@ -57,6 +57,7 @@ Passionate about coding, started learning with Python and have since then develo
   </a>
 </p>
 
+<!--
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -82,3 +83,4 @@ Passionate about coding, started learning with Python and have since then develo
   <a href="https://github.com/Vermylion/shakesperian-quotes-finder" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vermylion&repo=shakesperian-quotes-finder&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0d1117&hide_border=true&locale=en" /></a>
 </div>
+-->
