@@ -1,4 +1,4 @@
-Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)! I'm Vermylion!
+Hey there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Vermylion!
 =================================================================================================================================
 
 Inspiring Software Engineer
@@ -62,10 +62,10 @@ Passionate about coding, started learning with Python and have since then develo
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Vermylion">
-<img src="https://github-readme-stats.vercel.app/api?username=Vermylion&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0d1117&hide_border=true&show_icons=true" alt="Vermylion's GitHub stats" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vermylion&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0d1117&hide_border=true&show_icons=true" alt="Vermylion's GitHub stats" /></a>
 <br />
 <a href="https://github.com/Vermylion" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vermylion&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vermylion&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--
 <b>Top Repositories</b>
