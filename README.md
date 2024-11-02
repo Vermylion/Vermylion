@@ -32,7 +32,7 @@ Passionate about coding, started learning with Python and have since then develo
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Vermylion/pgmenu" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vermylion&repo=pgmenu&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0d1117&hide_border=true&locale=en" /></a><a href="https://github.com/Vermylion/auto-actions-3.0" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vermylion&repo=auto-actions-3.0&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/Vermylion/pgmenu" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vermylion&repo=pgmenu&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0d1117&hide_border=true&locale=en" /></a><a href="https://github.com/Vermylion/auto-actions-3.0" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vermylion&repo=auto-actions-3.0&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0d1117&hide_border=true&locale=en" /></a></div>
 
 <br /><br /><br /><br /><br />
 
