@@ -57,7 +57,6 @@ Passionate about coding, started learning with Python and have since then develo
   </a>
 </p>
 
-<!--
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -68,6 +67,7 @@ Passionate about coding, started learning with Python and have since then develo
 <a href="https://github.com/Vermylion" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vermylion&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<!--
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
