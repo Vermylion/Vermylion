@@ -1,7 +1,7 @@
-Hey there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Vermylion!
+Hey there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Guillaume Quarmeau!
 =================================================================================================================================
 
-Inspiring Software Engineer
+Student and Programmer
 ---------------------------
 
 Passionate about coding, started learning with Python and have since then developed my skills and would say near mastered Python (don't quote me on that). I love everything that has to do with graphics and design, and while Python is great to get started, performance just isn't there. I've therefore started learning C++ to take graphics programming to another level!
