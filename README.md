@@ -6,7 +6,7 @@ Passionate about coding, started learning with Python and have since then develo
 *   🌍  I'm based in France
 *   ✉️  You can contact me at [vermylioncode@gmail.com](mailto:vermylioncode@gmail.com)
 *   🚀  I'm currently working on [pgmenu](http://github.com/Vermylion/pgmenu)
-*   🧠  I'm learning C++, Network/Cybersecurity, Web design
+*   🧠  I'm learning C++
 *   🤝  I'm open to collaborating on basically anything :)
 
 ### Skills
